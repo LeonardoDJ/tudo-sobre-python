@@ -1,5 +1,3 @@
-import math
-
 produto = {}
 
 for i in range(3):
